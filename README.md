@@ -1,9 +1,9 @@
-## Olá, me chamo Eliaquim Jorras
+## Olá, me chamo Eliaquim Jorras / Hello, my name is Eliaquim Jorras
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliaquimJorras&show_icons=true&theme=cobalt&locate=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliaquimJorras&show_icons=true&theme=cobalt&layout=compact&locate=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🌳 Tenho experiência em
+### 🌳 Tenho experiência em / I have experience in
 
 <div style="display: inline_block">
   <img align="center" alt="Eliaquim-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -11,7 +11,7 @@
   <img align="center" alt="Eliaquim-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div><br>
 
-### 🌱 Linguagens que estou estudando
+### 🌱 Linguagens que estou aprendendo / Programming languages I'm learning
 
 <div style="display: inline_block">
   <img align="center" alt="Eliaquim-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
