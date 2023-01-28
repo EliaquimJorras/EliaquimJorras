@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliaquimJorras&show_icons=true&theme=cobalt&locate=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliaquimJorras&show_icons=true&theme=cobalt&layout=compact&locate=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🌳 Liguagens que domino
+### 🌳 Linguagens que domino
 
 <div style="display: inline_block">
   <img align="center" alt="Eliaquim-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
