@@ -1,7 +1,7 @@
 ## Olá, me chamo Eliaquim Jorras / Hello, my name is Eliaquim Jorras
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliaquimJorras&show_icons=true&theme=cobalt&locate=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliaquimJorras&show_icons=true&theme=cobalt&layout=compact&locate=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliaquimJorras&show_icons=true&theme=cobalt&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliaquimJorras&show_icons=true&theme=cobalt&layout=compact&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌳 Tenho experiência em / I have experience in
 
