@@ -3,11 +3,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliaquimJorras&show_icons=true&theme=cobalt&locate=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliaquimJorras&show_icons=true&theme=cobalt&layout=compact&locate=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🌳 Linguagens que domino
+### 🌳 Tenho experiência em
 
 <div style="display: inline_block">
   <img align="center" alt="Eliaquim-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-   <img align="center" alt="Eliaquim-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="center" alt="Eliaquim-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="Eliaquim-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div><br>
 
