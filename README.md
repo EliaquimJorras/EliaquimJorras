@@ -1,4 +1,6 @@
-## Hi guys, my name is Eliaquim Jorras and...
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hy%2C+guys!+My+name+is+Eliaquim+Jorras+and...)](https://git.io/typing-svg)
 
 My first contact with programming was at university, where I became fascinated with developing solutions to problems using computers, and I've been passionate about this area ever since.
 For now, my seniority level is Junior and this is just the beginning of a long journey. I continue to improve my knowledge to become increasingly qualified.
@@ -45,3 +47,5 @@ For now, my seniority level is Junior and this is just the beginning of a long j
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
