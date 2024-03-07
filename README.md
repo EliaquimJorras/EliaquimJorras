@@ -1,30 +1,38 @@
-## Olá, me chamo Eliaquim Jorras / Hello, my name is Eliaquim Jorras
+## Hi guys, my name is Eliaquim Jorras and...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliaquimJorras&show_icons=true&theme=cobalt&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliaquimJorras&show_icons=true&theme=cobalt&layout=compact&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+My first contact with programming was at university, where I became fascinated with developing solutions to problems using computers, and I've been passionate about this area ever since.
+For now, my seniority level is Junior and this is just the beginning of a long journey. I continue to improve my knowledge to become increasingly qualified.
 
-### 🌳 Tenho experiência em / I have experience in
+## More about me
+### Statistics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliaquimJorras&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliaquimJorras&show_icons=true&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- &locale=pt-br -->
+
+### Tools and Technologies
 
 <div style="display: inline_block">
-  <img align="center" alt="Eliaquim-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Eliaquim-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="center" alt="Eliaquim-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="c-sharp" align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="dot-net" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+  <img alt="microsoft-sql-server" align="center" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img alt="postman" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img alt="vs-studio" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+  <img alt="vs-code" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img alt="bootstrap" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img alt="html" align="center" height="50" width="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="css" align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <img alt="javascript" align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">            
 </div><br>
 
-### 🌱 Linguagens que estou aprendendo / Programming languages I'm learning
+### Studying
 
 <div style="display: inline_block">
-  <img align="center" alt="Eliaquim-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Eliaquim-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="Eliaquim-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  <!-- 
-  <img align="center" alt="Eliaquim-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Eliaquim-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  -->
+  <img alt="c-language" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img alt="python" align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><br>
 
-##
+## Contacts
 
 <div>
   <a href="https://www.linkedin.com/in/eliaquim-jorras" target="_blank">
